@@ -21,7 +21,7 @@ export default function Portfolio() {
       { nom: "PyTorch", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" },
     ],
     
-    email: "",
+    email: " ",
     github: "https://github.com/kyrokx",
     linkedin: "https://linkedin.com/",
     discord: "kyrokx",
