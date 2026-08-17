@@ -21,11 +21,11 @@ export default function Portfolio() {
       { nom: "PyTorch", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" },
     ],
     
-    email: "kyrokxdev@gmail.com",
+    email: "",
     github: "https://github.com/kyrokx",
     linkedin: "https://linkedin.com/",
     discord: "kyrokx",
-    twitter: "https://x.com/kyrokxx",
+    twitter: "https://x.com/",
     githubUsername: "kyrokx" // Juste votre nom d'utilisateur GitHub
   };
 
